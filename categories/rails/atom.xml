@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rails | Addictive Blog]]></title>
+  <link href="http://addicted2sounds.github.io//categories/rails/atom.xml" rel="self"/>
+  <link href="http://addicted2sounds.github.io/"/>
+  <updated>2016-05-08T19:40:07+03:00</updated>
+  <id>http://addicted2sounds.github.io/</id>
+  <author>
+    <name><![CDATA[addicted2sounds]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rails папки: App vs Lib]]></title>
+    <link href="http://addicted2sounds.github.io/rails-papki-app-vs-lib.html"/>
+    <updated>2015-07-23T09:06:38+03:00</updated>
+    <id>http://addicted2sounds.github.io/rails-papki-app-vs-lib</id>
+    <content type="html"><![CDATA[<p>Поскольку времени становиться все меньше, блог переходит немного в другой формат. Отныне буду публиковать ссылки на полезные статьи, которые попадаются и возможно переводить некоторые.
+Полезная статья о правильной организации Rails кода.</p>
+
+<p><a href="http://samurails.com/tips/rails-app-vs-lib/">http://samurails.com/tips/rails-app-vs-lib/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
