@@ -4,7 +4,7 @@
   <title><![CDATA[Addictive Blog]]></title>
   <link href="http://addicted2sounds.github.io/atom.xml" rel="self"/>
   <link href="http://addicted2sounds.github.io/"/>
-  <updated>2016-05-08T10:40:18+03:00</updated>
+  <updated>2016-05-08T11:18:57+03:00</updated>
   <id>http://addicted2sounds.github.io/</id>
   <author>
     <name><![CDATA[addicted2sounds]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rails 5 RC1 Is Out]]></title>
+    <link href="http://addicted2sounds.github.io/rails-5-rc1-is-out.html"/>
+    <updated>2016-05-08T11:02:43+03:00</updated>
+    <id>http://addicted2sounds.github.io/rails-5-rc1-is-out</id>
+    <content type="html"><![CDATA[<p>Вышла пятая версия Rails, хотя я и так уже ее использую на протяжении
+последних пары месяцев</p>
+
+<p><a href="https://rubygems.org/gems/rails/versions/5.0.0.racecar1">https://rubygems.org/gems/rails/versions/5.0.0.racecar1</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rails папки: App vs Lib]]></title>

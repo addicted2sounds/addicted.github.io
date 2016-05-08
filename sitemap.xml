@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://addicted2sounds.github.io/rails-5-rc1-is-out.html</loc>
+<lastmod>2016-05-08T11:02:43+03:00</lastmod>
+</url>
+<url>
 <loc>http://addicted2sounds.github.io/rails-papki-app-vs-lib.html</loc>
 <lastmod>2015-07-23T09:06:38+03:00</lastmod>
 </url>
