@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[Category: Rails, | Addictive Blog]]></title>
   <link href="http://addicted2sounds.github.io//categories/rails/atom.xml" rel="self"/>
   <link href="http://addicted2sounds.github.io/"/>
   <updated>2016-05-25T11:04:43+03:00</updated>
+=======
+  <title><![CDATA[Category: Rails | Addictive Blog]]></title>
+  <link href="http://addicted2sounds.github.io//categories/rails/atom.xml" rel="self"/>
+  <link href="http://addicted2sounds.github.io/"/>
+  <updated>2016-05-08T19:19:07+03:00</updated>
+>>>>>>> 9d8c4ef3071d9fc7160de344f1387e250689433c
   <id>http://addicted2sounds.github.io/</id>
   <author>
     <name><![CDATA[addicted2sounds]]></name>
@@ -14,12 +21,23 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Как фильтровать Has_many связи]]></title>
     <link href="http://addicted2sounds.github.io/kak-filtrovat-has-many-sviazi.html"/>
     <updated>2016-05-25T10:59:50+03:00</updated>
     <id>http://addicted2sounds.github.io/kak-filtrovat-has-many-sviazi</id>
     <content type="html"><![CDATA[<p>Полезная статья о фильтрации has_many
 <a href="http://ducktypelabs.com/four-ways-to-filter-has_many-associations/">http://ducktypelabs.com/four-ways-to-filter-has_many-associations/</a></p>
+=======
+    <title type="html"><![CDATA[Rails папки: App vs Lib]]></title>
+    <link href="http://addicted2sounds.github.io/rails-papki-app-vs-lib.html"/>
+    <updated>2015-07-23T09:06:38+03:00</updated>
+    <id>http://addicted2sounds.github.io/rails-papki-app-vs-lib</id>
+    <content type="html"><![CDATA[<p>Поскольку времени становиться все меньше, блог переходит немного в другой формат. Отныне буду публиковать ссылки на полезные статьи, которые попадаются и возможно переводить некоторые.
+Полезная статья о правильной организации Rails кода.</p>
+
+<p><a href="http://samurails.com/tips/rails-app-vs-lib/">http://samurails.com/tips/rails-app-vs-lib/</a></p>
+>>>>>>> 9d8c4ef3071d9fc7160de344f1387e250689433c
 ]]></content>
   </entry>
   
