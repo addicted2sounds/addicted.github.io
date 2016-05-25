@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ruby, | Addictive Blog]]></title>
-  <link href="http://addicted2sounds.github.io//categories/ruby/atom.xml" rel="self"/>
+  <title><![CDATA[Category: On | Addictive Blog]]></title>
+  <link href="http://addicted2sounds.github.io//categories/on/atom.xml" rel="self"/>
   <link href="http://addicted2sounds.github.io/"/>
   <updated>2016-05-25T11:04:43+03:00</updated>
   <id>http://addicted2sounds.github.io/</id>
