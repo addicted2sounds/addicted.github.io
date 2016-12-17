@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rspec | Addictive Blog]]></title>
+  <link href="http://addicted2sounds.github.io//categories/rspec/atom.xml" rel="self"/>
+  <link href="http://addicted2sounds.github.io/"/>
+  <updated>2016-12-17T08:09:29+02:00</updated>
+  <id>http://addicted2sounds.github.io/</id>
+  <author>
+    <name><![CDATA[addicted2sounds]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rspec Style Guide]]></title>
+    <link href="http://addicted2sounds.github.io/rspec-style-guide.html"/>
+    <updated>2016-12-17T08:04:35+02:00</updated>
+    <id>http://addicted2sounds.github.io/rspec-style-guide</id>
+    <content type="html"><![CDATA[<p>Полезные ссылки по стилю написания rspec тестов:
+<a href="https://github.com/reachlocal/rspec-style-guide">https://github.com/reachlocal/rspec-style-guide</a></p>
+
+<p>Обязательно к ознакомлению: <a href="http://betterspecs.org/">Better Specs</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Addictive Blog]]></title>
   <link href="http://addicted2sounds.github.io/atom.xml" rel="self"/>
   <link href="http://addicted2sounds.github.io/"/>
-  <updated>2016-05-25T11:04:43+03:00</updated>
+  <updated>2016-12-17T08:09:29+02:00</updated>
   <id>http://addicted2sounds.github.io/</id>
   <author>
     <name><![CDATA[addicted2sounds]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rspec Style Guide]]></title>
+    <link href="http://addicted2sounds.github.io/rspec-style-guide.html"/>
+    <updated>2016-12-17T08:04:35+02:00</updated>
+    <id>http://addicted2sounds.github.io/rspec-style-guide</id>
+    <content type="html"><![CDATA[<p>Полезные ссылки по стилю написания rspec тестов:
+<a href="https://github.com/reachlocal/rspec-style-guide">https://github.com/reachlocal/rspec-style-guide</a></p>
+
+<p>Обязательно к ознакомлению: <a href="http://betterspecs.org/">Better Specs</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Module#prepend]]></title>
+    <link href="http://addicted2sounds.github.io/module-number-prepend.html"/>
+    <updated>2016-05-25T11:28:53+03:00</updated>
+    <id>http://addicted2sounds.github.io/module-number-prepend</id>
+    <content type="html"><![CDATA[<p>Немного о использовании Module#prepend
+(<a href="http://masa331.github.io/2016/01/26/module-prepend-use-case.html">http://masa331.github.io/2016/01/26/module-prepend-use-case.html</a>)[<a href="http://masa331.github.io/2016/01/26/module-prepend-use-case.html">http://masa331.github.io/2016/01/26/module-prepend-use-case.html</a>]</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Как фильтровать Has_many связи]]></title>
