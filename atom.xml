@@ -4,7 +4,7 @@
   <title><![CDATA[Addictive Blog]]></title>
   <link href="http://addicted2sounds.github.io/atom.xml" rel="self"/>
   <link href="http://addicted2sounds.github.io/"/>
-  <updated>2016-12-17T08:09:29+02:00</updated>
+  <updated>2016-12-17T08:16:03+02:00</updated>
   <id>http://addicted2sounds.github.io/</id>
   <author>
     <name><![CDATA[addicted2sounds]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Почему лучше избегать `member` и `collection` роутов]]></title>
+    <link href="http://addicted2sounds.github.io/pochiemu-luchshie-izbieghat'-%60member%60-i-%60collection%60-routov.html"/>
+    <updated>2016-12-17T08:14:29+02:00</updated>
+    <id>http://addicted2sounds.github.io/pochiemu-luchshie-izbieghat&#8217;-`member`-i-`collection`-routov</id>
+    <content type="html"><![CDATA[<p>Рассуждения на тему в <a href="https://github.com/thoughtbot/guides/issues/401">треде</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rspec Style Guide]]></title>
