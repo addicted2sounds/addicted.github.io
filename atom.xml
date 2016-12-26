@@ -4,7 +4,7 @@
   <title><![CDATA[Addictive Blog]]></title>
   <link href="http://addicted2sounds.github.io/atom.xml" rel="self"/>
   <link href="http://addicted2sounds.github.io/"/>
-  <updated>2016-12-17T08:16:03+02:00</updated>
+  <updated>2016-12-26T09:24:58+02:00</updated>
   <id>http://addicted2sounds.github.io/</id>
   <author>
     <name><![CDATA[addicted2sounds]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Держи код в чистоте]]></title>
+    <link href="http://addicted2sounds.github.io/dierzhi-kod-v-chistotie.html"/>
+    <updated>2016-12-26T09:18:09+02:00</updated>
+    <id>http://addicted2sounds.github.io/dierzhi-kod-v-chistotie</id>
+    <content type="html"><![CDATA[<p>Полезная подборка для анализа и корректировки качества кода:
+<a href="https://infinum.co/the-capsized-eight/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup">https://infinum.co/the-capsized-eight/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails 5.1 Webpack Support]]></title>
+    <link href="http://addicted2sounds.github.io/rails-5-dot-1-webpack-support.html"/>
+    <updated>2016-12-18T10:24:44+02:00</updated>
+    <id>http://addicted2sounds.github.io/rails-5-dot-1-webpack-support</id>
+    <content type="html"><![CDATA[<p>Создавать реактивные приложения на рельсах теперь гораздо легче:
+<a href="https://github.com/rails/webpacker">https://github.com/rails/webpacker</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Почему лучше избегать `member` и `collection` роутов]]></title>

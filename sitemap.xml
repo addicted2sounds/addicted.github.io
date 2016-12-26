@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://addicted2sounds.github.io/dierzhi-kod-v-chistotie.html</loc>
+<lastmod>2016-12-26T09:18:09+02:00</lastmod>
+</url>
+<url>
+<loc>http://addicted2sounds.github.io/rails-5-dot-1-webpack-support.html</loc>
+<lastmod>2016-12-18T10:24:44+02:00</lastmod>
+</url>
+<url>
 <loc>http://addicted2sounds.github.io/pochiemu-luchshie-izbieghat&#8217;-%2560member%2560-i-%2560collection%2560-routov.html</loc>
 <lastmod>2016-12-17T08:14:29+02:00</lastmod>
 </url>
@@ -104,5 +112,11 @@
 </url>
 <url>
 <loc>http://addicted2sounds.github.io/categories/rspec/</loc>
+</url>
+<url>
+<loc>http://addicted2sounds.github.io/categories/react/</loc>
+</url>
+<url>
+<loc>http://addicted2sounds.github.io/categories/webpack/</loc>
 </url>
 </urlset>
